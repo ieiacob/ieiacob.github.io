@@ -1,0 +1,19 @@
+body { font-size:12px; font-family: "Courier New"; }
+    * { margin:0; padding:0; }
+
+.header {
+  font-weight: bold;
+  background-color: #e0e0e0;
+}
+
+.row0 {
+  background-color: #f0f0f0;height: 14px
+; }
+
+.row1 {
+  background-color: #f8f8f8;height: 14px; 
+}
+
+
+.row2 {
+  background-color: #f0f0f0;height: 14px; }
